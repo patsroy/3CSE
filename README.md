@@ -9,7 +9,7 @@ Students who want to learn Python with Django.
 Students can visit the code sections topic wise and 
 Learn the basics. 
 And then practice the questions related to that topic, which are given in
-the Practice Set Pdf in this repository.
+the Question Bank Pdf in this repository.
 
  
 
