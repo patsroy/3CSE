@@ -1,6 +1,5 @@
 # Python with Django 
-
-
+###### abbreviated as PYD
 This repository has been created to help
 Students who want to learn Python with Django.
 
